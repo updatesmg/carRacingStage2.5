@@ -1,5 +1,11 @@
 var canvas, backgroundImage;
 
+
+var hi;
+// YEH maine update karna sekh liya
+
+
+
 var gameState = 0;
 var playerCount;
 var allPlayers;
